@@ -1,0 +1,14 @@
+{
+  "name": "power_backend",
+  "module": "src/index.ts",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "type": "module",
+  "dependencies": {
+    "aedes": "^0.51.0"
+  }
+}
